@@ -6,7 +6,6 @@ def base_hash
 	   }
 	   
 	 }
-	 monopoly
 end
 
 
